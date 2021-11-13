@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Damir2805/b4practice/issues"
   },
-  "homepage": "https://github.com/Damir2805/b4practice#readme"
+  "homepage": "https://github.com/Damir2805/b4practice#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
 }
